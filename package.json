@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator2",
+  "version": "1.0.0",
+  "description": "homework flashcard-generator",
+  "main": "flashcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maciel31/flashcard-generator2.git"
+  },
+  "keywords": [
+    "flashcard-generator"
+  ],
+  "author": "Maciel31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maciel31/flashcard-generator2/issues"
+  },
+  "homepage": "https://github.com/Maciel31/flashcard-generator2#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
